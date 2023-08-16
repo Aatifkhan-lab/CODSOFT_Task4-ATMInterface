@@ -28,11 +28,11 @@ The ATM Application project provides a virtual ATM experience where users can in
    
 git clone https://github.com/Aatifkhan-lab/CODSOFT_Task4-ATMInterface.git
    
-Compile the Java source code:
+2. Compile the Java source code:
 
 javac ATMapp.java
 
-Run the compiled Java program:
+3. Run the compiled Java program:
 
 java ATMapp
 
