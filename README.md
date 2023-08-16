@@ -26,7 +26,7 @@ The ATM Application project provides a virtual ATM experience where users can in
 
 1. Clone the repository to your local machine:
    
-git clone 
+git clone https://github.com/Aatifkhan-lab/CODSOFT_Task4-ATMInterface.git
    
 Compile the Java source code:
 
